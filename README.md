@@ -1,2 +1,3 @@
 # img
-My image hosting repository for personal website.
+
+The image hosting repository.
